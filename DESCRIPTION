@@ -17,5 +17,5 @@ Imports:
     readr
 Suggests: 
     testthat
-URL: https://github.com/progettopulvirus/qualityControls
-BugReports: https://github.com/progettopulvirus/qualityControls/issues
+URL: https://github.com/guidofioravanti/qualityControls
+BugReports: https://github.com/guidofioravanti/qualityControls/issues
